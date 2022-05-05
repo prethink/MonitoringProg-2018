@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="MonitoringProg.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="save_ip" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8.8.8.8</Value>
+    </Setting>
+    <Setting Name="backup" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\</Value>
+    </Setting>
+    <Setting Name="email" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="checkbox" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="emaillogin" Type="System.String" Scope="User">
+      <Value Profile="(Default)">servicemon@inbox.ru</Value>
+    </Setting>
+    <Setting Name="emailpassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">g454332</Value>
+    </Setting>
+    <Setting Name="filetype" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.rar</Value>
+    </Setting>
+    <Setting Name="RedSector" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3</Value>
+    </Setting>
+    <Setting Name="YellowSector" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
